@@ -2,6 +2,8 @@
 
 ## Master Project Information Sciences
 
+* Master_IS_Research_Thesis-Roger.pdf is the master thesis paper.
+
 * At directory /papers you can find the papers referenced for the study.
 
 * At directory /methodology the diagrams exhibiting the methodology followed for answering RQ1 and RQ2. They are provided in both .png image format (at the directory /exports), and .drawio, the format used for making the diagrams with the tool Drawio. <https://www.drawio.com/>
